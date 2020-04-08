@@ -16,5 +16,5 @@ Add it in your root build.gradle at the end of repositories:
   Add the dependency
   
       dependencies {
-	        implementation 'com.github.alokjkashyap:SearchFromHash:1.0
+	        implementation 'com.github.alokjkashyap:SearchFromHash:<latest-version>'
 	}
