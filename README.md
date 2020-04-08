@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/alokjkashyap/SearchFromHash.svg)](https://jitpack.io/#alokjkashyap/SearchFromHash)
 # SearchFromHash
 A method to implement search feature to firestore recycler view
 
