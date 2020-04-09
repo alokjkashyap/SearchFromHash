@@ -29,13 +29,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, final int position) {
         holder.SubName.setText(SubName.get(position));
-        holder.SubName.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                SubActivity.pos = position;
 
-            }
-        });
     }
 
     @Override
